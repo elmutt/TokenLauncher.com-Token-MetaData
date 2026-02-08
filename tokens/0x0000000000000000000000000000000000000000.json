@@ -1,0 +1,17 @@
+{
+  "address": "0x0000000000000000000000000000000000000000",
+  "chain": "base",
+  "name": "Test Token",
+  "symbol": "TEST",
+  "description": "This is a test push to verify GitHub integration",
+  "iconUrl": null,
+  "website": null,
+  "social": null,
+  "poolAddress": "0x0000000000000000000000000000000000000000",
+  "wrappedLpAddress": "0x0000000000000000000000000000000000000000",
+  "launchTxHash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+  "creatorAddress": "0x0000000000000000000000000000000000000000",
+  "price": 0.001,
+  "initialLiquidityUsd": 1,
+  "launchedAt": "2026-02-08T23:54:11.462Z"
+}
