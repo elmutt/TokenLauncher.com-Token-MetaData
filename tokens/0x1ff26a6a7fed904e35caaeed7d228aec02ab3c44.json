@@ -1,0 +1,17 @@
+{
+  "address": "0x1Ff26a6a7FEd904E35CaaEeD7d228aEc02ab3C44",
+  "chain": "base",
+  "name": "FullTest3",
+  "symbol": "FullTest3",
+  "description": null,
+  "iconUrl": null,
+  "website": null,
+  "social": null,
+  "poolAddress": "0x60Ed7722F7aE1f4451F0308B344E65B93c258f7F",
+  "wrappedLpAddress": "0x0acC873DBf1c6B8e4B38695244Aa7b60B04E4c72",
+  "launchTxHash": "0xa9dbd128e9d5fb2d60cb5f85cebbad4ff7afa0c31b4e2c24504f1356981a274f",
+  "creatorAddress": "0xD1239C5BA2f6f1e705E904258c5EAaC897b56D26",
+  "price": 4.2,
+  "initialLiquidityUsd": 0.02,
+  "launchedAt": "2026-02-09T02:50:12.595Z"
+}
