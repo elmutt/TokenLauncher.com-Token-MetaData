@@ -1,0 +1,17 @@
+{
+  "address": "0xe6cD57AEe7Ac9a89fa9e2781D7Cf1310364fC2B4",
+  "chain": "base",
+  "name": "L1",
+  "symbol": "l2",
+  "description": null,
+  "iconUrl": null,
+  "website": null,
+  "social": null,
+  "poolAddress": "0x6F700C2d92a793BF86F8f593Fb0beADf117d3e43",
+  "wrappedLpAddress": "0x12010Fe911c262C5906D3B3d21c88945eEFCd26D",
+  "launchTxHash": "0x7e078aea71ab667f10acba45ff0ac46040e22c8ddaf8af5e13037dac0fa1417e",
+  "creatorAddress": "0xD1239C5BA2f6f1e705E904258c5EAaC897b56D26",
+  "price": 4.2,
+  "initialLiquidityUsd": 0.02,
+  "launchedAt": "2026-02-11T16:28:10.098Z"
+}
