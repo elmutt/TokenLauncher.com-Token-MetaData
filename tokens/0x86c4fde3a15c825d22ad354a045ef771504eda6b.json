@@ -1,0 +1,17 @@
+{
+  "address": "0x86C4fde3a15C825D22ad354a045Ef771504EdA6B",
+  "chain": "base",
+  "name": "catter1",
+  "symbol": "catter1",
+  "description": null,
+  "iconUrl": null,
+  "website": null,
+  "social": null,
+  "poolAddress": "0x2a8e7802717E826432d055382554f65ca7EE735B",
+  "wrappedLpAddress": "0x070b268c7772a8E8639343aA82E3B2E348D07bDd",
+  "launchTxHash": "0x611a474df3791029010168feb000fbcc2e388d6161c1b38ca20cc13d019d0eaf",
+  "creatorAddress": "0xD1239C5BA2f6f1e705E904258c5EAaC897b56D26",
+  "price": 4.2,
+  "initialLiquidityUsd": 0.02,
+  "launchedAt": "2026-02-11T17:11:13.269Z"
+}
