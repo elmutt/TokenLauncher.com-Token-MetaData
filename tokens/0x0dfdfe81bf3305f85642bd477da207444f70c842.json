@@ -1,0 +1,17 @@
+{
+  "address": "0x0DfDfE81bF3305F85642bd477Da207444f70C842",
+  "chain": "base",
+  "name": "botey",
+  "symbol": "botey",
+  "description": null,
+  "iconUrl": null,
+  "website": null,
+  "social": null,
+  "poolAddress": "0x4d8914b9725b66EA2EC52da8FA128Bce94D02459",
+  "wrappedLpAddress": "0x4635b5eC51C04968Fcd28bF91e88aE43afD9701F",
+  "launchTxHash": "0x4af0a9a5e37502991731242efd2e38e2c101f3c1665235e6dc6493a0c92a469e",
+  "creatorAddress": "0xD1239C5BA2f6f1e705E904258c5EAaC897b56D26",
+  "price": 4.2,
+  "initialLiquidityUsd": 0.02,
+  "launchedAt": "2026-02-12T16:04:21.752Z"
+}
