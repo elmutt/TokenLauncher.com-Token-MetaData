@@ -1,0 +1,17 @@
+{
+  "address": "0x413bfC3DDcC87D33925e19D6F5dB17178325dF23",
+  "chain": "base",
+  "name": "asdf",
+  "symbol": "asdf",
+  "description": null,
+  "iconUrl": null,
+  "website": null,
+  "social": null,
+  "poolAddress": "0xcEfED2Cd4504391a57A779EBE915914e3e644f55",
+  "wrappedLpAddress": "0xD51bB7EC3B0FEE8397F30875A55b3e48508038c3",
+  "launchTxHash": "0x75f0ac06a4bbfe3d395018686b4f1e24a7b03f97b273d54a1a939a9707ef4d96",
+  "creatorAddress": "0xD1239C5BA2f6f1e705E904258c5EAaC897b56D26",
+  "price": 4.2,
+  "initialLiquidityUsd": 0.02,
+  "launchedAt": "2026-02-13T04:29:53.744Z"
+}
