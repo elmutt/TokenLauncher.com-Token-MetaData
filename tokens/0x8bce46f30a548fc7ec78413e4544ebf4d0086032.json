@@ -1,0 +1,17 @@
+{
+  "address": "0x8Bce46F30a548fC7ec78413e4544ebF4D0086032",
+  "chain": "base",
+  "name": "sdsd",
+  "symbol": "sesd",
+  "description": null,
+  "iconUrl": null,
+  "website": null,
+  "social": null,
+  "poolAddress": "0xbE59586ac10126D71D284370EE09bE18391ab692",
+  "wrappedLpAddress": "0x55BDb44261731144ee44812615D07B25B17824F4",
+  "launchTxHash": "0xb82758bd53c03671b864c475795ade1f3008e38d175c4fe4bce4b4b1cd7ddc53",
+  "creatorAddress": "0xD1239C5BA2f6f1e705E904258c5EAaC897b56D26",
+  "price": 4.2,
+  "initialLiquidityUsd": 0.02,
+  "launchedAt": "2026-02-13T04:38:18.461Z"
+}
