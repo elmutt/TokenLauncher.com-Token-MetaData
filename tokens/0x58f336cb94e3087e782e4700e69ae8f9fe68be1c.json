@@ -1,0 +1,17 @@
+{
+  "address": "0x58F336CB94e3087E782e4700E69aE8f9FE68Be1C",
+  "chain": "base",
+  "name": "WarVideos.org",
+  "symbol": "WAR",
+  "description": null,
+  "iconUrl": null,
+  "website": null,
+  "social": null,
+  "poolAddress": "0x809B08E883b9363Aa859F537f7490B2f294352FB",
+  "wrappedLpAddress": "0xffc63d35Db44dDAd9D0C9f9f98329123E733b8f8",
+  "launchTxHash": "0x32da06558638e97f242dfbcc805d3f87a2154e4937f14e42722a9368ff544518",
+  "creatorAddress": "0xD1239C5BA2f6f1e705E904258c5EAaC897b56D26",
+  "price": 0.01,
+  "initialLiquidityUsd": 0.02,
+  "launchedAt": "2026-02-14T05:53:48.986Z"
+}
