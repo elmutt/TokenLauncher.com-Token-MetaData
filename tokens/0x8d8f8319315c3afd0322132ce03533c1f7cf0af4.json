@@ -1,0 +1,17 @@
+{
+  "address": "0x8D8f8319315c3Afd0322132Ce03533c1f7Cf0af4",
+  "chain": "base",
+  "name": "CocaineToken.com",
+  "symbol": "COCAINE",
+  "description": null,
+  "iconUrl": null,
+  "website": null,
+  "social": null,
+  "poolAddress": "0xd4247aAd06627Aeb98d33A65d8706Fbd859b760d",
+  "wrappedLpAddress": "0x5323797C37B139D37eFF55113D63048BD38153c1",
+  "launchTxHash": "0xc8739c36579b50d2fe0f1721395f905d6f39c55f755b5ecd2fc73487b38f6ce3",
+  "creatorAddress": "0xD1239C5BA2f6f1e705E904258c5EAaC897b56D26",
+  "price": 0.0001,
+  "initialLiquidityUsd": 0.02,
+  "launchedAt": "2026-02-14T04:53:49.097Z"
+}
