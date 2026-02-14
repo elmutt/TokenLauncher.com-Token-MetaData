@@ -4,7 +4,7 @@
   "name": "Vix Volatility Token",
   "symbol": "VixToken",
   "description": null,
-  "iconUrl": null,
+  "iconUrl": "https://tokenlauncher.nyc3.digitaloceanspaces.com/icons/base-0xa9255B3Fa69A85C356C64cb912C4bF30B922a9ff.png",
   "website": null,
   "social": null,
   "poolAddress": "0x1546e0ab817FA316e23e4780259C630829De63DC",
