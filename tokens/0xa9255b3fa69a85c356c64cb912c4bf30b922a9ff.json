@@ -3,7 +3,7 @@
   "chain": "base",
   "name": "Vix Volatility Token",
   "symbol": "VixToken",
-  "description": "Volatility is opportunity. A token demonstrating some tokenlauncher.com market making bot features to create volume volatility and price action. Get in before the next bot pump!",
+  "description": "Volatility is opportunity. VixToken Mimics the CBOE VIX index -- Crazy bolatile random bot trades when vix is higher and less volatile when low. demonstrating some tokenlauncher.com market making bot features to create volume volatility and price action. Get in before the next bot pump!",
   "iconUrl": "https://tokenlauncher.nyc3.digitaloceanspaces.com/icons/base-0xa9255B3Fa69A85C356C64cb912C4bF30B922a9ff.png",
   "website": null,
   "social": null,
