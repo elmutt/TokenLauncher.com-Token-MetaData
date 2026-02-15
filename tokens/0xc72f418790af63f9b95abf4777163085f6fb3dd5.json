@@ -1,0 +1,17 @@
+{
+  "address": "0xC72F418790Af63f9B95ABf4777163085f6FB3Dd5",
+  "chain": "base",
+  "name": "Vix Volatility",
+  "symbol": "VIX",
+  "description": null,
+  "iconUrl": null,
+  "website": null,
+  "social": null,
+  "poolAddress": "0xBD9e0bcb3739b47693cA73F5D2Fc1C371FdCD145",
+  "wrappedLpAddress": "0xbDA9473d24e0f38d27fE91097Cf2961e8eF982Ed",
+  "launchTxHash": "0x4540ac6e771cc27ad4329ba35f52710616116af9abf766a4121caf74785df1de",
+  "creatorAddress": "0xD1239C5BA2f6f1e705E904258c5EAaC897b56D26",
+  "price": 20.6,
+  "initialLiquidityUsd": 0.02,
+  "launchedAt": "2026-02-15T01:58:39.519Z"
+}
