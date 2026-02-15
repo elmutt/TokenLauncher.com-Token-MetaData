@@ -1,0 +1,17 @@
+{
+  "address": "0x43550825944F7bD4FE24eaD47b0db58b79753e07",
+  "chain": "base",
+  "name": "Weed",
+  "symbol": "420",
+  "description": null,
+  "iconUrl": null,
+  "website": null,
+  "social": null,
+  "poolAddress": "0xD49844d884C7308e0A986Ea4ad8A2Fea51F9312a",
+  "wrappedLpAddress": "0x0303EcDEC695884E9a544b902BA659B8B5141878",
+  "launchTxHash": "0xcf3205f6147988a81d91dd752bc88193a19618d68b698be19fcfb41cd9e8fe54",
+  "creatorAddress": "0xD1239C5BA2f6f1e705E904258c5EAaC897b56D26",
+  "price": 1,
+  "initialLiquidityUsd": 0.02,
+  "launchedAt": "2026-02-15T04:01:55.499Z"
+}
