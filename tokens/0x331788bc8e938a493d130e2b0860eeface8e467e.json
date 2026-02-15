@@ -1,0 +1,17 @@
+{
+  "address": "0x331788BC8E938A493D130e2b0860EefacE8e467E",
+  "chain": "base",
+  "name": "JIZZ",
+  "symbol": "JIZZ",
+  "description": null,
+  "iconUrl": null,
+  "website": null,
+  "social": null,
+  "poolAddress": "0x073B236B690D1AF5d9c4C8C6edCa7382bBe66855",
+  "wrappedLpAddress": "0x912dd60468BF4145281B9218b989C72f2c0DCBdb",
+  "launchTxHash": "0xf271ebc10425e444580a7424abde2512c3883e2b4abe212a8df1a0f1839694bf",
+  "creatorAddress": "0xD1239C5BA2f6f1e705E904258c5EAaC897b56D26",
+  "price": 0.69,
+  "initialLiquidityUsd": 0.02,
+  "launchedAt": "2026-02-15T18:10:49.232Z"
+}
