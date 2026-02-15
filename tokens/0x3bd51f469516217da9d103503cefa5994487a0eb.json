@@ -1,0 +1,17 @@
+{
+  "address": "0x3BD51f469516217da9D103503cEfa5994487a0eB",
+  "chain": "base",
+  "name": "Marmalade The Cat",
+  "symbol": "Marms",
+  "description": null,
+  "iconUrl": null,
+  "website": null,
+  "social": null,
+  "poolAddress": "0xEaBB4402908F4f38f3499cA8D50a84139c76E55d",
+  "wrappedLpAddress": "0x94bC8b66598b87fcD9aAc5997D8F270e6Bf1dC87",
+  "launchTxHash": "0x97c46ea5e51a1788371b272fefdab974bb191f7aecb53cfe147fc899b949fb8d",
+  "creatorAddress": "0xD1239C5BA2f6f1e705E904258c5EAaC897b56D26",
+  "price": 420,
+  "initialLiquidityUsd": 0.02,
+  "launchedAt": "2026-02-15T03:56:27.578Z"
+}
