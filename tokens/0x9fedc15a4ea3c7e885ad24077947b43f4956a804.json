@@ -1,0 +1,17 @@
+{
+  "address": "0x9FeDc15A4EA3c7E885aD24077947b43F4956a804",
+  "chain": "base",
+  "name": "MegaRewards",
+  "symbol": "$$$",
+  "description": null,
+  "iconUrl": null,
+  "website": null,
+  "social": null,
+  "poolAddress": "0x0c7d7f721c99a035e32e89B3C1c2A3aC52Ffe57D",
+  "wrappedLpAddress": "0xbf3f42a182F069213d7E0Fa9CCb90143b0cB3Ed5",
+  "launchTxHash": "0xb9d269667bd30cb0533f0d408781f272f5adf21ba667e2771d28606d5a96963c",
+  "creatorAddress": "0xD1239C5BA2f6f1e705E904258c5EAaC897b56D26",
+  "price": 1000,
+  "initialLiquidityUsd": 0.02,
+  "launchedAt": "2026-02-15T19:57:05.780Z"
+}
