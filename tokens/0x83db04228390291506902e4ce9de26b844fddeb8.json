@@ -1,0 +1,17 @@
+{
+  "address": "0x83dB04228390291506902e4Ce9DE26B844FddEB8",
+  "chain": "base",
+  "name": "PromoCodeTest",
+  "symbol": "PromoCode",
+  "description": null,
+  "iconUrl": null,
+  "website": null,
+  "social": null,
+  "poolAddress": "0x2bf1D2d98dbf65F45CCc4fe55ee2F778ED769a1d",
+  "wrappedLpAddress": "0x48B367F63C5d5310830D6e7B6A7cE3BEeAf1e432",
+  "launchTxHash": "0x8ab7f2f109a78f0678b7237c007f47fa9219291f8a1ae00d13db4eaea02a67c5",
+  "creatorAddress": "0xD1239C5BA2f6f1e705E904258c5EAaC897b56D26",
+  "price": 4.2,
+  "initialLiquidityUsd": 0.02,
+  "launchedAt": "2026-02-15T01:17:13.170Z"
+}
