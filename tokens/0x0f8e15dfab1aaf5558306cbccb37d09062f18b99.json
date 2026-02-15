@@ -1,0 +1,17 @@
+{
+  "address": "0x0f8E15dFaB1AAf5558306cBccb37d09062f18b99",
+  "chain": "base",
+  "name": "sdffddfs",
+  "symbol": "sdfdfsdfs",
+  "description": null,
+  "iconUrl": null,
+  "website": null,
+  "social": null,
+  "poolAddress": "0x92f32054e640928B9Ff9ff2EE8681Ac396dC449C",
+  "wrappedLpAddress": "0xd162e240DD93b7166D7f574b19688bb38a6A3f52",
+  "launchTxHash": "0x024b68ef5668d9ec94af9cefef0b662caabfca8c244b235a5876d9909acab716",
+  "creatorAddress": "0xD1239C5BA2f6f1e705E904258c5EAaC897b56D26",
+  "price": 4.2,
+  "initialLiquidityUsd": 0.02,
+  "launchedAt": "2026-02-15T00:26:51.390Z"
+}
