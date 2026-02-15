@@ -1,0 +1,17 @@
+{
+  "address": "0x1f7B689F3980C8595377702662630Abf29a6ffF3",
+  "chain": "base",
+  "name": "Meowthecat",
+  "symbol": "MTC",
+  "description": null,
+  "iconUrl": null,
+  "website": null,
+  "social": null,
+  "poolAddress": "0xB29fEaFfe63bB115813BD3efD346Bf1Fc2DF7998",
+  "wrappedLpAddress": "0x14bC8cFd074525Fe3fBC9b6D5fA462AB809bE2e2",
+  "launchTxHash": "0x02fdbf679abd2ce6740d9b85838e29ccd1f000350505c58923ac782b76040646",
+  "creatorAddress": "0xD1239C5BA2f6f1e705E904258c5EAaC897b56D26",
+  "price": 4.2,
+  "initialLiquidityUsd": 0.02,
+  "launchedAt": "2026-02-15T14:23:07.696Z"
+}
