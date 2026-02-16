@@ -1,0 +1,17 @@
+{
+  "address": "0x9f429F4Ab83935da41D51aC345843001C7f808F8",
+  "chain": "base",
+  "name": "Yacht Diamond Hustle",
+  "symbol": "YDMN",
+  "description": null,
+  "iconUrl": null,
+  "website": null,
+  "social": null,
+  "poolAddress": "0xec71815eE0478710A5aD7633c0C85c462d6b0623",
+  "wrappedLpAddress": "0x57ebD0003221fD62CeE00F828413F0826DD4d807",
+  "launchTxHash": "0x8965b74c80c8f9a518f107d04f278dbcd4c70133ba40304e6b8e736b67fdc017",
+  "creatorAddress": "0xD1239C5BA2f6f1e705E904258c5EAaC897b56D26",
+  "price": 0.05,
+  "initialLiquidityUsd": 0.02,
+  "launchedAt": "2026-02-16T19:17:10.113Z"
+}
