@@ -1,0 +1,17 @@
+{
+  "address": "0x2A1F167d010F2fA78aa5183bCadEc7D819447f7B",
+  "chain": "base",
+  "name": "NewTest",
+  "symbol": "NEWTE",
+  "description": null,
+  "iconUrl": null,
+  "website": null,
+  "social": null,
+  "poolAddress": "0x66C3b6063a1024B0538eFb4B1562CeF8Ee9201C7",
+  "wrappedLpAddress": "0xE20EEffaBd852857B65B20AB51dE1D17E7919631",
+  "launchTxHash": "0x8f619cbb4430466a463dc35b923be9a95b5965c0a81898b71ae3d51bbd1e5f93",
+  "creatorAddress": "0xD1239C5BA2f6f1e705E904258c5EAaC897b56D26",
+  "price": 4.2,
+  "initialLiquidityUsd": 0.02,
+  "launchedAt": "2026-02-16T17:21:43.808Z"
+}
