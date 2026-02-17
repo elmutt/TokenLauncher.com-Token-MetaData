@@ -1,0 +1,17 @@
+{
+  "address": "0xEA82C42bB7e0d57f44146AfA273b8DE18bEd9a1C",
+  "chain": "base",
+  "name": "$Wade",
+  "symbol": "$WADE",
+  "description": null,
+  "iconUrl": null,
+  "website": null,
+  "social": null,
+  "poolAddress": "0x47f22c94A5085de8D9Ea828DC4E85297B12F2A01",
+  "wrappedLpAddress": "0x84216846eDb7A6BC15811Ecb31B86aEEd6Ae919f",
+  "launchTxHash": "0x5cb3c975b1f396b4406c5a51986858f1bf00ca1f9c064741891564db596219fc",
+  "creatorAddress": "0xD1239C5BA2f6f1e705E904258c5EAaC897b56D26",
+  "price": 0.001,
+  "initialLiquidityUsd": 0.02,
+  "launchedAt": "2026-02-17T07:07:01.571Z"
+}
