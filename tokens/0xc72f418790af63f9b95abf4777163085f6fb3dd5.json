@@ -6,7 +6,7 @@
   "description": "Volatility Is Opportunity. Designed to be as volatile as possible, creating opportunity for some while crushing the dreams of others. Demonstrates Token Launcher market making capabilities.",
   "iconUrl": "https://tokenlauncher.nyc3.digitaloceanspaces.com/icons/base-0xC72F418790Af63f9B95ABf4777163085f6FB3Dd5.png",
   "website": null,
-  "social": null,
+  "social": "https://vixtoken.com",
   "poolAddress": "0xBD9e0bcb3739b47693cA73F5D2Fc1C371FdCD145",
   "wrappedLpAddress": "0xbDA9473d24e0f38d27fE91097Cf2961e8eF982Ed",
   "launchTxHash": "0x4540ac6e771cc27ad4329ba35f52710616116af9abf766a4121caf74785df1de",
