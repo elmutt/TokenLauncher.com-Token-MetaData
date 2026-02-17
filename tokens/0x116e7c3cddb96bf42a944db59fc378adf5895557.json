@@ -1,0 +1,17 @@
+{
+  "address": "0x116e7C3cddB96bf42A944dB59fc378adf5895557",
+  "chain": "base",
+  "name": "BasicNoBots",
+  "symbol": "BASIC",
+  "description": null,
+  "iconUrl": null,
+  "website": null,
+  "social": null,
+  "poolAddress": "0xc0B7927058D9Af52180bAbf6Efdf7816A561701e",
+  "wrappedLpAddress": "0xfb3988B06114840B17C7630f6995f2621296C33E",
+  "launchTxHash": "0xbe5e2efa0239942ff6a20a725b7eaa3a74aa1270205d0748b3feb7f2e00aaee9",
+  "creatorAddress": "0xD1239C5BA2f6f1e705E904258c5EAaC897b56D26",
+  "price": 4.2,
+  "initialLiquidityUsd": 0.02,
+  "launchedAt": "2026-02-17T02:47:45.195Z"
+}
