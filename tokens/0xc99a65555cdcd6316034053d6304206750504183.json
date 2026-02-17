@@ -1,0 +1,17 @@
+{
+  "address": "0xC99a65555cdCd6316034053d6304206750504183",
+  "chain": "base",
+  "name": "QueueTest1",
+  "symbol": "QUEUE",
+  "description": null,
+  "iconUrl": null,
+  "website": null,
+  "social": null,
+  "poolAddress": "0x7cdc6b7C49aF65FA08d6299ee2Fb3471236EaaC8",
+  "wrappedLpAddress": "0x87Fb57d61a086947F752936bA0e855fEd67e0F8D",
+  "launchTxHash": "0xc7b8b4ad6f848d2c5712cf9097ded0f2b6e6a0268c6d89c04ec6459a3a17cfeb",
+  "creatorAddress": "0xD1239C5BA2f6f1e705E904258c5EAaC897b56D26",
+  "price": 4.2,
+  "initialLiquidityUsd": 0.02,
+  "launchedAt": "2026-02-17T03:08:18.618Z"
+}
