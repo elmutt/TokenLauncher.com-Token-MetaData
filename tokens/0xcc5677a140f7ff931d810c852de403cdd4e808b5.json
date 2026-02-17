@@ -1,0 +1,17 @@
+{
+  "address": "0xcC5677a140F7Ff931D810c852de403CDd4E808B5",
+  "chain": "base",
+  "name": "test1",
+  "symbol": "TEST1",
+  "description": null,
+  "iconUrl": null,
+  "website": null,
+  "social": null,
+  "poolAddress": "0x4053B870E8157a4d8630549e4d2b67EDcCf572E7",
+  "wrappedLpAddress": "0xA306E9AC0201401274Ed39929F6834189B39937a",
+  "launchTxHash": "0x30ae0ab6ffc6592d541e3b172f67dedc0649a30b981f1dd3ec28348b496fe119",
+  "creatorAddress": "0xD1239C5BA2f6f1e705E904258c5EAaC897b56D26",
+  "price": 4.2,
+  "initialLiquidityUsd": 0.02,
+  "launchedAt": "2026-02-17T22:20:28.223Z"
+}
