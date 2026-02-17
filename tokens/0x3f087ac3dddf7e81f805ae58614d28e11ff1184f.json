@@ -1,0 +1,17 @@
+{
+  "address": "0x3f087Ac3DddF7E81f805aE58614d28e11ff1184F",
+  "chain": "base",
+  "name": "Lambo dog",
+  "symbol": "LD",
+  "description": null,
+  "iconUrl": null,
+  "website": null,
+  "social": null,
+  "poolAddress": "0x71042465184725108D731Bc8E21a3A8023644760",
+  "wrappedLpAddress": "0x6133c97D07F39474fDE2e61681E5F3F0b0c4D113",
+  "launchTxHash": "0x4a8aff318a7e08a9f9d9ee204ed6e747aa0fc610ce01476366f70a4f22947567",
+  "creatorAddress": "0xD1239C5BA2f6f1e705E904258c5EAaC897b56D26",
+  "price": 4.2,
+  "initialLiquidityUsd": 0.02,
+  "launchedAt": "2026-02-17T02:02:16.855Z"
+}
