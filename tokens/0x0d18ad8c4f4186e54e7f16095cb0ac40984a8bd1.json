@@ -1,0 +1,17 @@
+{
+  "address": "0x0D18AD8c4f4186e54E7F16095cb0Ac40984A8BD1",
+  "chain": "base",
+  "name": "ERC8004",
+  "symbol": "ERC80",
+  "description": null,
+  "iconUrl": null,
+  "website": null,
+  "social": null,
+  "poolAddress": "0xA42b2CFd23a19cdaf7c6B49F51b4aF1b0BAE7183",
+  "wrappedLpAddress": "0xD8c7fda68A61D0D3EF1DB03Af3f8bb0E2ebedB38",
+  "launchTxHash": "0x824f8f6ba7ed441ac5eb8f4ed628e3d913b7fb7a8125cdd4f784aa861a296e81",
+  "creatorAddress": "0xD1239C5BA2f6f1e705E904258c5EAaC897b56D26",
+  "price": 408,
+  "initialLiquidityUsd": 0.02,
+  "launchedAt": "2026-02-18T14:40:00.517Z"
+}
