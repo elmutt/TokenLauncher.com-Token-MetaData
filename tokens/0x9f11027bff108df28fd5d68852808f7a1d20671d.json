@@ -1,0 +1,17 @@
+{
+  "address": "0x9F11027BFF108df28fd5d68852808f7a1d20671d",
+  "chain": "base",
+  "name": "Fertile Meadow Harvest",
+  "symbol": "MDHV",
+  "description": null,
+  "iconUrl": null,
+  "website": null,
+  "social": null,
+  "poolAddress": "0x61fC6165A3C0C65AA70145cB61Ca1030A5118AD1",
+  "wrappedLpAddress": "0x58ac279B95B160E1ef2DADF237F85880e9227F05",
+  "launchTxHash": "0x75279ba06ecc3e28a5328293efa174b435d9ace3801a4a1e917b29ca52e12514",
+  "creatorAddress": "0xD1239C5BA2f6f1e705E904258c5EAaC897b56D26",
+  "price": 100000,
+  "initialLiquidityUsd": 0.02,
+  "launchedAt": "2026-02-18T10:47:26.099Z"
+}
