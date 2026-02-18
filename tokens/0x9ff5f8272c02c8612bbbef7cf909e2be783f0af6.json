@@ -1,0 +1,17 @@
+{
+  "address": "0x9Ff5f8272C02C8612BBbEf7cf909E2BE783F0aF6",
+  "chain": "base",
+  "name": "Moneyhack",
+  "symbol": "MONEY",
+  "description": null,
+  "iconUrl": null,
+  "website": null,
+  "social": null,
+  "poolAddress": "0xbAb73762e75656d74C45d87AB754126A0497AF72",
+  "wrappedLpAddress": "0x9E260fc9860bf4D75b303982C1Da20eA46E9b78D",
+  "launchTxHash": "0xf6bc1ecaba465e25c0e0c732e048623986c76c3108e6787ae2fe18642045daf9",
+  "creatorAddress": "0xD1239C5BA2f6f1e705E904258c5EAaC897b56D26",
+  "price": 10,
+  "initialLiquidityUsd": 0.02,
+  "launchedAt": "2026-02-18T09:35:13.575Z"
+}
