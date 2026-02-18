@@ -1,0 +1,17 @@
+{
+  "address": "0x5c4E554607B63D980bbe48e73C51726A7c2f1Ce5",
+  "chain": "base",
+  "name": "TestLaunch1",
+  "symbol": "TESTL",
+  "description": null,
+  "iconUrl": null,
+  "website": null,
+  "social": null,
+  "poolAddress": "0x994fe32e30e8132c8BcEE69BC15d763AE3142e08",
+  "wrappedLpAddress": "0x8e2BbB5eaEEE00Ea580C6aF7Db2de9710e463f12",
+  "launchTxHash": "0x811b8c8a2af6c0b666abd758b5fc0c83bbe0c2c0821953e02926d036f6c1df54",
+  "creatorAddress": "0xD1239C5BA2f6f1e705E904258c5EAaC897b56D26",
+  "price": 4.2,
+  "initialLiquidityUsd": 0.02,
+  "launchedAt": "2026-02-18T17:50:34.855Z"
+}
