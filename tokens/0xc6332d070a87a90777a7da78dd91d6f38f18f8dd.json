@@ -1,0 +1,17 @@
+{
+  "address": "0xc6332D070A87a90777a7dA78Dd91D6f38f18F8dD",
+  "chain": "base",
+  "name": "CLAWD",
+  "symbol": "CLAWD",
+  "description": null,
+  "iconUrl": null,
+  "website": null,
+  "social": null,
+  "poolAddress": "0x55d4aA0F6ecbdb2411a736E167Fc52855A04BE46",
+  "wrappedLpAddress": "0x357Fa64d7462E74C8Dd66FA35936C28D93BD492e",
+  "launchTxHash": "0xe8f5eff3c4e48a892b2c523a5e6c6c41351ad7f9e1270ac66c39aaf92861b315",
+  "creatorAddress": "0xD1239C5BA2f6f1e705E904258c5EAaC897b56D26",
+  "price": 8.004,
+  "initialLiquidityUsd": 0.02,
+  "launchedAt": "2026-02-18T15:18:32.135Z"
+}
