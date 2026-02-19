@@ -1,0 +1,17 @@
+{
+  "address": "0xCd91C73baB40E4bC87e244104bFFB967f7f42B68",
+  "chain": "base",
+  "name": "TestElmutt",
+  "symbol": "TESTE",
+  "description": null,
+  "iconUrl": null,
+  "website": null,
+  "social": null,
+  "poolAddress": "0x8a707C8b266094660ff914e37327040d7C8190da",
+  "wrappedLpAddress": "0x63DE40C78e91073bef709EaD8a3e497aA84A3E56",
+  "launchTxHash": "0xd1003105a38c7ee04f445351e53e1ec1360eab66613a3b412f0a4ccb3bae7c65",
+  "creatorAddress": "0xD1239C5BA2f6f1e705E904258c5EAaC897b56D26",
+  "price": 4.2,
+  "initialLiquidityUsd": 0.02,
+  "launchedAt": "2026-02-19T14:56:14.013Z"
+}
