@@ -1,0 +1,17 @@
+{
+  "address": "0x17F7bdBaA361cA8B95205899F3eaD80D64d03484",
+  "chain": "base",
+  "name": "Quantum Flux Network",
+  "symbol": "QFLX",
+  "description": null,
+  "iconUrl": null,
+  "website": null,
+  "social": null,
+  "poolAddress": "0x64C3d0070f45E088800c2bD917e3C1d533B75Fd0",
+  "wrappedLpAddress": "0xc6314BF6C4d3bd1d8cBD372A65c66576c089dcaa",
+  "launchTxHash": "0x01b52b99f630072355b67b380670d759390a941fd96539c174b5ed6e6a9fd668",
+  "creatorAddress": "0xD1239C5BA2f6f1e705E904258c5EAaC897b56D26",
+  "price": 3.88,
+  "initialLiquidityUsd": 0.02,
+  "launchedAt": "2026-02-19T02:56:11.821Z"
+}
