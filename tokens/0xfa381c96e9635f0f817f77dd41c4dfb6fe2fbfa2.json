@@ -1,0 +1,17 @@
+{
+  "address": "0xfA381C96e9635f0f817F77Dd41c4dFB6FE2fBFa2",
+  "chain": "base",
+  "name": "TaytxTest1",
+  "symbol": "TAYTX",
+  "description": null,
+  "iconUrl": null,
+  "website": null,
+  "social": null,
+  "poolAddress": "0x5E1fE37920B0A58e1d692FaAF3356e4e8cb5D123",
+  "wrappedLpAddress": "0x7b756aD434c2d4C2308546E4D71B4E7d2dcA9d25",
+  "launchTxHash": "0x71390f6b6c69e1dc497062b02ec8bf3c757242d0b4b7decf2a5ef24b8e5458b1",
+  "creatorAddress": "0xD1239C5BA2f6f1e705E904258c5EAaC897b56D26",
+  "price": 5,
+  "initialLiquidityUsd": 0.02,
+  "launchedAt": "2026-02-21T20:30:41.383Z"
+}
