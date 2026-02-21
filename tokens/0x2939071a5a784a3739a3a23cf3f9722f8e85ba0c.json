@@ -1,0 +1,17 @@
+{
+  "address": "0x2939071A5A784A3739A3a23CF3F9722F8E85bA0C",
+  "chain": "base",
+  "name": "notme",
+  "symbol": "NOTME",
+  "description": null,
+  "iconUrl": null,
+  "website": null,
+  "social": null,
+  "poolAddress": "0x71C7A3E68941D2503246eDAf72f4Db13cb3471Bf",
+  "wrappedLpAddress": "0x2Ed2A268FA0F4F1D52af7DB3b75dCB0196628011",
+  "launchTxHash": "0x82c4b0fe6216fa4d7a55aa43d80881d96a20101fe742ae925c0b21ef49afc2d0",
+  "creatorAddress": "0xD1239C5BA2f6f1e705E904258c5EAaC897b56D26",
+  "price": 10,
+  "initialLiquidityUsd": 0.02,
+  "launchedAt": "2026-02-21T18:26:32.416Z"
+}
