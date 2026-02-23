@@ -1,0 +1,17 @@
+{
+  "address": "0x2290c51851CF6277D5413FFF83D08612FBbDc3Fc",
+  "chain": "base",
+  "name": "el Mencho",
+  "symbol": "MENCHO",
+  "description": null,
+  "iconUrl": null,
+  "website": null,
+  "social": null,
+  "poolAddress": "0xcEa96445D05e3e13AFbF8a2679c708DE63098c50",
+  "wrappedLpAddress": "0xe2d75eb22643c3E8a883C88Ffcb965Bfa120d2DC",
+  "launchTxHash": "0x3a6d7ac3056e4dbe3c2b649fb49dc9a6f52bbc39c17ff7955917646280def432",
+  "creatorAddress": "0xD1239C5BA2f6f1e705E904258c5EAaC897b56D26",
+  "price": 1,
+  "initialLiquidityUsd": 0.02,
+  "launchedAt": "2026-02-23T04:17:28.828Z"
+}
