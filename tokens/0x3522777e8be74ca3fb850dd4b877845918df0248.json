@@ -4,7 +4,7 @@
   "name": "Wrapped Ethereum",
   "symbol": "WETHER",
   "description": null,
-  "iconUrl": null,
+  "iconUrl": "https://tokenlauncher.nyc3.digitaloceanspaces.com/icons/base-0x3522777E8Be74ca3fb850Dd4b877845918dF0248.jpeg",
   "website": null,
   "social": null,
   "poolAddress": "0x1BDa5f89c39BE3DEDeF30eAA09bdF01a5411949C",
