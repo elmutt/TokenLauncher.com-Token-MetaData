@@ -1,0 +1,17 @@
+{
+  "address": "0x3522777E8Be74ca3fb850Dd4b877845918dF0248",
+  "chain": "base",
+  "name": "Wrapped Ethereum",
+  "symbol": "WETHER",
+  "description": null,
+  "iconUrl": null,
+  "website": null,
+  "social": null,
+  "poolAddress": "0x1BDa5f89c39BE3DEDeF30eAA09bdF01a5411949C",
+  "wrappedLpAddress": "0x7E572FE368f126C3dA6E6460a5e6DA9d21392349",
+  "launchTxHash": "0xceae9a79961e51fbd3162427496369b520789e99c240e97b1d80c47992108b5f",
+  "creatorAddress": "0xD1239C5BA2f6f1e705E904258c5EAaC897b56D26",
+  "price": 0.001,
+  "initialLiquidityUsd": 0.02,
+  "launchedAt": "2026-02-24T12:34:54.621Z"
+}
