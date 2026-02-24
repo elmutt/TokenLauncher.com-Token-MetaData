@@ -4,7 +4,7 @@
   "name": "Wrapped Ether",
   "symbol": "WETH",
   "description": null,
-  "iconUrl": null,
+  "iconUrl": "https://tokenlauncher.nyc3.digitaloceanspaces.com/icons/base-0x5f1aa3E76A377cE9d8DB98dBceE41D5cD329B705.png",
   "website": null,
   "social": null,
   "poolAddress": "0x21CC519E568004793B4035aAAC7f2f845bFe5404",
