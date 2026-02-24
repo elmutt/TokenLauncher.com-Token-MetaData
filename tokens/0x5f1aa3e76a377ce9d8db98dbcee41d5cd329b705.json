@@ -1,0 +1,17 @@
+{
+  "address": "0x5f1aa3E76A377cE9d8DB98dBceE41D5cD329B705",
+  "chain": "base",
+  "name": "Wrapped Ether",
+  "symbol": "WETH",
+  "description": null,
+  "iconUrl": null,
+  "website": null,
+  "social": null,
+  "poolAddress": "0x21CC519E568004793B4035aAAC7f2f845bFe5404",
+  "wrappedLpAddress": "0xE31344288D6d082e18dBDBbf236020f98eeAb79C",
+  "launchTxHash": "0x3ad482a1899cb8baae3b8345cc723ec2a407532e88ad04dc9cca5667dacb3426",
+  "creatorAddress": "0xD1239C5BA2f6f1e705E904258c5EAaC897b56D26",
+  "price": 1818,
+  "initialLiquidityUsd": 0.02,
+  "launchedAt": "2026-02-24T13:53:51.823Z"
+}
