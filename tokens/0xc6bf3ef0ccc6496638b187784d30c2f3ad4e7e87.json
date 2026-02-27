@@ -1,0 +1,17 @@
+{
+  "address": "0xC6Bf3EF0CCc6496638b187784D30c2f3AD4e7e87",
+  "chain": "base",
+  "name": "LUTHER",
+  "symbol": "LUTHE",
+  "description": null,
+  "iconUrl": null,
+  "website": null,
+  "social": null,
+  "poolAddress": "0xff7127c2baac8c5123DE88c92633c10A60E9891f",
+  "wrappedLpAddress": "0x196381b060EF6d8f859653AB3C78589fCbf63479",
+  "launchTxHash": "0x99561e68876618d1e21eea0e284ab401fefec9c5366ee48dbf5f63a2d00e0b40",
+  "creatorAddress": "0xD1239C5BA2f6f1e705E904258c5EAaC897b56D26",
+  "price": 4.2,
+  "initialLiquidityUsd": 0.02,
+  "launchedAt": "2026-02-27T21:29:25.313Z"
+}
