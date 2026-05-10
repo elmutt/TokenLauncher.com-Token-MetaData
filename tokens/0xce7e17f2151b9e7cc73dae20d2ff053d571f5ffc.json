@@ -1,0 +1,17 @@
+{
+  "address": "0xcE7E17F2151B9E7CC73daE20d2fF053D571F5FfC",
+  "chain": "base",
+  "name": "RUG",
+  "symbol": "RUG",
+  "description": null,
+  "iconUrl": null,
+  "website": null,
+  "social": null,
+  "poolAddress": "0x0333a40F17235b0893D25d18ecF82C239EB77578",
+  "wrappedLpAddress": "0xca6Ad49A9331888c4689b31706b7035A40715399",
+  "launchTxHash": "0x20fec5d45ff7690b871efc991df6b5e2bf7d121ee0c479afaa4716e5b6fde9f2",
+  "creatorAddress": "0xD1239C5BA2f6f1e705E904258c5EAaC897b56D26",
+  "price": 0.0001,
+  "initialLiquidityUsd": 0.02,
+  "launchedAt": "2026-05-10T09:18:37.334Z"
+}
