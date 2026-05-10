@@ -1,0 +1,17 @@
+{
+  "address": "0xF76F2Ce8e6fDca91A240176B3413E50BaE4001AD",
+  "chain": "base",
+  "name": "Memek",
+  "symbol": "MEMEK",
+  "description": null,
+  "iconUrl": null,
+  "website": null,
+  "social": null,
+  "poolAddress": "0xE63bB939A35bE33A3268e4C33fF576067D6C74ED",
+  "wrappedLpAddress": "0x5CE811539850da3f0b6CEfFBfE89fC493F677387",
+  "launchTxHash": "0x6f67b3d1700ff5d6cc350ca348b1c51b74b8721f85b03fc67aee0635bd6155da",
+  "creatorAddress": "0xD1239C5BA2f6f1e705E904258c5EAaC897b56D26",
+  "price": 0.02,
+  "initialLiquidityUsd": 0.02,
+  "launchedAt": "2026-05-10T07:00:48.736Z"
+}
