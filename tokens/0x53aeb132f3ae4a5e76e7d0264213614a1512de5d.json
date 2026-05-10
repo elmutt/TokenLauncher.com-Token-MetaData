@@ -1,0 +1,17 @@
+{
+  "address": "0x53AeB132F3aE4A5e76e7d0264213614A1512De5D",
+  "chain": "base",
+  "name": "Alien",
+  "symbol": "ALIEN",
+  "description": null,
+  "iconUrl": null,
+  "website": null,
+  "social": null,
+  "poolAddress": "0xB713cbB542334E98aFbb752F9b8083B757a2DECE",
+  "wrappedLpAddress": "0x18E522315894aFBE6fAdcA964bd8E20B76A9264D",
+  "launchTxHash": "0x2f806a60105fd4206c8cf19bcb658bc92bf921c152a6519d867dc03f80d68d28",
+  "creatorAddress": "0xD1239C5BA2f6f1e705E904258c5EAaC897b56D26",
+  "price": 0.0001,
+  "initialLiquidityUsd": 0.02,
+  "launchedAt": "2026-05-10T10:03:34.402Z"
+}
