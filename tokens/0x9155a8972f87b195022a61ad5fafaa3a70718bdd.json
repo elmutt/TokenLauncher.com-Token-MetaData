@@ -1,0 +1,17 @@
+{
+  "address": "0x9155A8972f87B195022a61ad5FAfAA3A70718bDd",
+  "chain": "base",
+  "name": "BLC",
+  "symbol": "BLC",
+  "description": null,
+  "iconUrl": null,
+  "website": null,
+  "social": null,
+  "poolAddress": "0xB3291de887c0D7578B4BA60052Ed1528b0EC8B6E",
+  "wrappedLpAddress": "0x2394cB26E05D6A3168F323B6066A822BC800ce18",
+  "launchTxHash": "0xda33beba70b4a8c7e4959e8b5503332197b877eedb531bb0b4414a096dcbc943",
+  "creatorAddress": "0xD1239C5BA2f6f1e705E904258c5EAaC897b56D26",
+  "price": 0.47,
+  "initialLiquidityUsd": 0.02,
+  "launchedAt": "2026-05-10T08:05:27.426Z"
+}
