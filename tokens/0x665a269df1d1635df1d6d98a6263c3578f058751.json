@@ -1,0 +1,17 @@
+{
+  "address": "0x665A269dF1D1635dF1D6d98a6263C3578F058751",
+  "chain": "base",
+  "name": "Aditya Coin",
+  "symbol": "AC",
+  "description": null,
+  "iconUrl": null,
+  "website": null,
+  "social": null,
+  "poolAddress": "0x46D77c805b884d6802F00C545D62C9CC66601516",
+  "wrappedLpAddress": "0x3c8aCeeA3e0fA81B1090c05c48fBD1BBE841ad09",
+  "launchTxHash": "0xa515424c12df58a49e5d6f29853db7dd6fe89a0fbcabb162c0289d24c5028c35",
+  "creatorAddress": "0xD1239C5BA2f6f1e705E904258c5EAaC897b56D26",
+  "price": 1,
+  "initialLiquidityUsd": 0.02,
+  "launchedAt": "2026-06-07T20:19:54.174Z"
+}
