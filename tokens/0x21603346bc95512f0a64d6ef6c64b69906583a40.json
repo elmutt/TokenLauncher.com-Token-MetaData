@@ -1,0 +1,17 @@
+{
+  "address": "0x21603346bC95512F0a64d6Ef6c64b69906583a40",
+  "chain": "base",
+  "name": "AMERICA",
+  "symbol": "250",
+  "description": null,
+  "iconUrl": null,
+  "website": null,
+  "social": null,
+  "poolAddress": "0x13D1F60107EA0Ee7418aC6706b9B3D782A178695",
+  "wrappedLpAddress": "0x8cB5a86E42A855d6D57158Bad6E912E74c4b4e58",
+  "launchTxHash": "0x39a594f55a945a003d5e88a53dc1f2b4c58d1ee9930c344c8f60f424bf908368",
+  "creatorAddress": "0xD1239C5BA2f6f1e705E904258c5EAaC897b56D26",
+  "price": 250,
+  "initialLiquidityUsd": 0.02,
+  "launchedAt": "2026-07-08T19:42:08.316Z"
+}
