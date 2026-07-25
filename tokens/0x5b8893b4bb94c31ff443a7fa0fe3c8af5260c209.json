@@ -1,0 +1,17 @@
+{
+  "address": "0x5b8893B4Bb94c31Ff443a7fA0FE3c8Af5260C209",
+  "chain": "base",
+  "name": "habibi",
+  "symbol": "HABIBI ",
+  "description": null,
+  "iconUrl": null,
+  "website": null,
+  "social": null,
+  "poolAddress": "0x21d9b7218eE99D4d6825f91977d79DF4A5190318",
+  "wrappedLpAddress": "0x4fCAc8C9EcDA2447c0c1A3B3C6D92E68B1de65A0",
+  "launchTxHash": "0xe6bca83c7f410eb45b9ada0c2fd28fc5f3c49016b3435ebada83bf62d4b2ffe8",
+  "creatorAddress": "0xD1239C5BA2f6f1e705E904258c5EAaC897b56D26",
+  "price": 0.005,
+  "initialLiquidityUsd": 0.02,
+  "launchedAt": "2026-07-25T11:20:05.912Z"
+}
